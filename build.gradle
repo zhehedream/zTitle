@@ -1,0 +1,11 @@
+plugins {
+    id 'org.spongepowered.plugin' version '0.8.1'
+}
+
+group = 'zhehe.Title' // TODO
+version = '1.0-SNAPSHOT'
+description = 'A small but perfect title plugin'
+
+dependencies {
+    compile 'org.spongepowered:spongeapi:7.0.0'
+}
